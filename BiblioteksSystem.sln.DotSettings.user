@@ -1,0 +1,51 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=04ad60af_002Decdc_002D4bde_002Daa69_002Ddc1eb528fafe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NewIdScan_EventReceived #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::318AED26-4930-483D-A215-163C733DC328::net7.0::BiblioteksSystem.Tests.NewIdScan_EventReceived&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=075a1e99_002Db01e_002D4a72_002D974c_002Dcf01d00fdefe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="HandleBogScannetEvent_Calls_UdregnLånetid_ReturnsCorrectLånetid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::318AED26-4930-483D-A215-163C733DC328::net7.0::BiblioteksSystem.Tests.HandleBogScannetEvent_Calls_UdregnLånetid_ReturnsCorrectLånetid&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=24a72238_002D3757_002D49ac_002Db7e4_002D916e08a4d5cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::318AED26-4930-483D-A215-163C733DC328::net7.0::BiblioteksSystem.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=287d8d9f_002Df5a4_002D43c3_002D8ac1_002D6e381b73949d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NewIdScan_EventReceived #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::318AED26-4930-483D-A215-163C733DC328::net7.0::BiblioteksSystem.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=30672608_002Dbc8f_002D4670_002D8e81_002D83f4803fc2b5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::318AED26-4930-483D-A215-163C733DC328::net7.0::BiblioteksSystem.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6178d1ea_002Df482_002D4579_002Db89f_002Df08acdaec677/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NewIdScan_EventReceived #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::318AED26-4930-483D-A215-163C733DC328::net7.0::BiblioteksSystem.Tests.NewIdScan_EventReceived&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8c5e5a28_002Dd208_002D428a_002Db0b9_002Dd448b8cb6b87/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::318AED26-4930-483D-A215-163C733DC328::net7.0::BiblioteksSystem.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b191874b_002Ddc11_002D4a56_002D8c73_002Dd8077f73bd37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::318AED26-4930-483D-A215-163C733DC328::net7.0::BiblioteksSystem.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c72078c0_002Dc6b8_002D4539_002D92a2_002Dd1aceebd5a5d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NewIdScan_EventReceived" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::318AED26-4930-483D-A215-163C733DC328::net7.0::BiblioteksSystem.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f37fa29f_002D65fc_002D4126_002Dab89_002D0eefd9b921a2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NewIdScan_EventReceived #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::318AED26-4930-483D-A215-163C733DC328::net7.0::BiblioteksSystem.Tests.NewIdScan_EventReceived&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

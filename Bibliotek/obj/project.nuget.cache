@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KbTJfbU2OegzmBybR2EzkvzUgkBvA5P4CHnCr+xvavrHnxHzXujuRu/hvhXuiJIHWb7jYIieMYEDsvd6+9OBw==",
+  "success": true,
+  "projectFilePath": "/Users/juliezepernickjepsen/RiderProjects/SWT/Eksamenssæt/BiblioteksSystem/Bibliotek/Bibliotek.csproj",
+  "expectedPackageFiles": [
+    "/Users/juliezepernickjepsen/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/juliezepernickjepsen/.nuget/packages/moq/4.18.4/moq.4.18.4.nupkg.sha512",
+    "/Users/juliezepernickjepsen/.nuget/packages/nsubstitute/5.0.0/nsubstitute.5.0.0.nupkg.sha512",
+    "/Users/juliezepernickjepsen/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioteksSystem", "BiblioteksSystem\BiblioteksSystem.csproj", "{318AED26-4930-483D-A215-163C733DC328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliotek", "Bibliotek\Bibliotek.csproj", "{4D2BA261-B7BF-4031-A320-A14A6036D982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{318AED26-4930-483D-A215-163C733DC328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318AED26-4930-483D-A215-163C733DC328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318AED26-4930-483D-A215-163C733DC328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318AED26-4930-483D-A215-163C733DC328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2BA261-B7BF-4031-A320-A14A6036D982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2BA261-B7BF-4031-A320-A14A6036D982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2BA261-B7BF-4031-A320-A14A6036D982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2BA261-B7BF-4031-A320-A14A6036D982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
